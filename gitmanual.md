@@ -9,5 +9,7 @@
 * [git init コマンド](module3-1.md)
 * [git add コマンド](module3-2.md)
 * [git commit コマンド](module3-3.md)
+## 4. ブランチ操作
+* [git checkout コマンド](module4-2.md)
 
 ![Copyright example.corp](./image/copyright.jpg)
