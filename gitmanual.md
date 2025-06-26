@@ -10,10 +10,7 @@
 * [git add コマンド](module3-2.md)
 * [git commit コマンド](module3-3.md)
 ## 4. ブランチ操作
-<<<<<<< user2_work
 * [git checkout コマンド](module4-2.md)
-=======
 * [git branch コマンド](module4-1.md)
->>>>>>> main
 
 ![Copyright example.corp](./image/copyright.jpg)
